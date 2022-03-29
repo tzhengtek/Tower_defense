@@ -1,4 +1,4 @@
-AU préalable, pour pouvoir lancer ce jeu, vous devez àvoir installer la librairie CSFML !!
+Au préalable, pour pouvoir lancer ce jeu, vous devez àvoir installer la librairie CSFML !!
 
 # Tower_defense
 Ce programme permet de tourner un jeu que vous connaissiez tous : Le Tower defense
