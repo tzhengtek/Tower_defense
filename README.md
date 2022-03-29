@@ -1,3 +1,5 @@
+AU préalable, pour pouvoir lancer ce jeu, vous devez àvoir installer la librairie CSFML !!
+
 # Tower_defense
 Ce programme permet de tourner un jeu que vous connaissiez tous : Le Tower defense
 Des ennemis vont apparaître au fur et à mesure de la partie et vous devrez défendre votre base !
